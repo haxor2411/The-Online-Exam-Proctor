@@ -42,10 +42,10 @@ The features included in the project are as follows:
 9. PyGetWindow
 
 ## Getting Started
-- First, you need to clone the repo: `https://github.com/aungkhantmyat/The-Online-Exam-Proctor.git`
+- First, you need to clone the repo: `https://github.com/haxor2411/The-Online-Exam-Proctor.git`
 - Run the `requirement.txt` file for the installation.
 - Run the `app.py` file.
 
-![fff](https://github.com/aungkhantmyat/The-Online-Exam-Proctor/assets/48421405/4721d814-7557-453e-8dc8-c792e229f937)
 
-_**Note:**_ You can read the project details [here](https://github.com/aungkhantmyat/The-Online-Exam-Proctor/blob/main/OEP%20Project.pdf).
+
+_**Note:**_ You can read the project details [here](https://github.com/haxor2411/The-Online-Exam-Proctor/blob/main/Report.pdf).
