@@ -1,0 +1,258 @@
+[
+    {
+        "Name": "Looking Right",
+        "Time": "2023-09-11 00:47:48",
+        "Duration": "1 seconds",
+        "Mark": 1,
+        "Link": "HeadViolation29539.mp4",
+        "RId": 1
+    },
+    {
+        "Name": "Common Noise is detected.",
+        "Time": "2023-09-11 00:47:54",
+        "Duration": "5 seconds",
+        "Mark": 5,
+        "Link": "16642VoiceViolation.wav",
+        "RId": 1
+    },
+    {
+        "Name": "Verified Student disappeared",
+        "Time": "2023-09-11 00:47:58",
+        "Duration": "2 seconds",
+        "Mark": 4,
+        "Link": "FDViolation6398.mp4",
+        "RId": 1
+    },
+    {
+        "Name": "Common Noise is detected.",
+        "Time": "2023-09-11 00:48:06",
+        "Duration": "6 seconds",
+        "Mark": 6,
+        "Link": "21395VoiceViolation.wav",
+        "RId": 1
+    },
+    {
+        "Name": "Move away from the Test",
+        "Time": "2023-09-11 00:48:11",
+        "Duration": "3 seconds",
+        "Mark": 6,
+        "Link": "SDViolation46692.mp4",
+        "RId": 1
+    },
+    {
+        "Name": "Common Noise is detected.",
+        "Time": "2023-09-11 00:48:30",
+        "Duration": "5 seconds",
+        "Mark": 5,
+        "Link": "28647VoiceViolation.wav",
+        "RId": 1
+    },
+    {
+        "Name": "Move away from the Test",
+        "Time": "2023-09-11 00:48:41",
+        "Duration": "2 seconds",
+        "Mark": 4,
+        "Link": "SDViolation19758.mp4",
+        "RId": 1
+    },
+    {
+        "Name": "Common Noise is detected.",
+        "Time": "2023-09-11 00:48:47",
+        "Duration": "5 seconds",
+        "Mark": 5,
+        "Link": "32295VoiceViolation.wav",
+        "RId": 1
+    },
+    {
+        "Name": "Prohibited Shorcuts (Alt+Tab,Ctrl+V) are detected.",
+        "Time": "6 Counts",
+        "Duration": "",
+        "Mark": 9,
+        "Link": "",
+        "RId": 1
+    },
+    {
+        "Name": "Common Noise is detected.",
+        "Time": "2024-05-11 11:43:37",
+        "Duration": "9 seconds",
+        "Mark": 9,
+        "Link": "7084VoiceViolation.wav",
+        "RId": 2
+    },
+    {
+        "Name": "Prohibited Shorcuts () are detected.",
+        "Time": "0 Counts",
+        "Duration": "",
+        "Mark": 0.0,
+        "Link": "",
+        "RId": 2
+    },
+    {
+        "Name": "Prohibited Shorcuts (Ctrl+C,Ctrl+V,Alt+Tab) are detected.",
+        "Time": "16 Counts",
+        "Duration": "",
+        "Mark": 24.0,
+        "Link": "",
+        "RId": 3
+    },
+    {
+        "Name": "Common Noise is detected.",
+        "Time": "2024-05-11 12:34:48",
+        "Duration": "3 seconds",
+        "Mark": 3,
+        "Link": "18561VoiceViolation.wav",
+        "RId": 4
+    },
+    {
+        "Name": "Prohibited Shorcuts (Window,Alt+Tab,Ctrl+V) are detected.",
+        "Time": "10 Counts",
+        "Duration": "",
+        "Mark": 15.0,
+        "Link": "",
+        "RId": 4
+    },
+    {
+        "Name": "Prohibited Shorcuts () are detected.",
+        "Time": "0 Counts",
+        "Duration": "",
+        "Mark": 0.0,
+        "Link": "",
+        "RId": 5
+    },
+    {
+        "Name": "Common Noise is detected.",
+        "Time": "2024-05-11 13:20:43",
+        "Duration": "4 seconds",
+        "Mark": 4,
+        "Link": "8078VoiceViolation.wav",
+        "RId": 6
+    },
+    {
+        "Name": "Common Noise is detected.",
+        "Time": "2024-05-11 13:20:51",
+        "Duration": "3 seconds",
+        "Mark": 3,
+        "Link": "28766VoiceViolation.wav",
+        "RId": 6
+    },
+    {
+        "Name": "Verified Student disappeared",
+        "Time": "2024-05-11 13:20:53",
+        "Duration": "2 seconds",
+        "Mark": 4,
+        "Link": "FDViolation34162.mp4",
+        "RId": 6
+    },
+    {
+        "Name": "More than one person is detected.",
+        "Time": "2024-05-11 13:20:55",
+        "Duration": "2 seconds",
+        "Mark": 3,
+        "Link": "MTOPViolation22262.mp4",
+        "RId": 6
+    },
+    {
+        "Name": "Common Noise is detected.",
+        "Time": "2024-05-11 13:20:56",
+        "Duration": "6 seconds",
+        "Mark": 6,
+        "Link": "39755VoiceViolation.wav",
+        "RId": 6
+    },
+    {
+        "Name": "Common Noise is detected.",
+        "Time": "2024-05-11 13:21:08",
+        "Duration": "3 seconds",
+        "Mark": 3,
+        "Link": "18269VoiceViolation.wav",
+        "RId": 6
+    },
+    {
+        "Name": "Verified Student disappeared",
+        "Time": "2024-05-11 13:21:10",
+        "Duration": "2 seconds",
+        "Mark": 4,
+        "Link": "FDViolation8561.mp4",
+        "RId": 6
+    },
+    {
+        "Name": "Prohibited Shorcuts (Alt+Tab,Window,Ctrl+C,Ctrl+V) are detected.",
+        "Time": "48 Counts",
+        "Duration": "",
+        "Mark": 72.0,
+        "Link": "",
+        "RId": 6
+    },
+    {
+        "Name": "Common Noise is detected.",
+        "Time": "2024-05-11 13:54:34",
+        "Duration": "17 seconds",
+        "Mark": 17,
+        "Link": "4641VoiceViolation.wav",
+        "RId": 7
+    },
+    {
+        "Name": "Common Noise is detected.",
+        "Time": "2024-05-11 13:54:53",
+        "Duration": "3 seconds",
+        "Mark": 3,
+        "Link": "15332VoiceViolation.wav",
+        "RId": 7
+    },
+    {
+        "Name": "Prohibited Shorcuts () are detected.",
+        "Time": "0 Counts",
+        "Duration": "",
+        "Mark": 0.0,
+        "Link": "",
+        "RId": 7
+    },
+    {
+        "Name": "Common Noise is detected.",
+        "Time": "2024-05-11 15:11:23",
+        "Duration": "15 seconds",
+        "Mark": 15,
+        "Link": "22188VoiceViolation.wav",
+        "RId": 8
+    },
+    {
+        "Name": "Looking Up",
+        "Time": "2024-05-11 15:11:28",
+        "Duration": "3 seconds",
+        "Mark": 3,
+        "Link": "HeadViolation8634.mp4",
+        "RId": 8
+    },
+    {
+        "Name": "Common Noise is detected.",
+        "Time": "2024-05-11 15:11:43",
+        "Duration": "3 seconds",
+        "Mark": 3,
+        "Link": "29620VoiceViolation.wav",
+        "RId": 8
+    },
+    {
+        "Name": "Prohibited Shorcuts () are detected.",
+        "Time": "0 Counts",
+        "Duration": "",
+        "Mark": 0.0,
+        "Link": "",
+        "RId": 8
+    },
+    {
+        "Name": "More than one person is detected.",
+        "Time": "2024-05-11 16:23:15",
+        "Duration": "2 seconds",
+        "Mark": 3,
+        "Link": "MTOPViolation44192.mp4",
+        "RId": 9
+    },
+    {
+        "Name": "Prohibited Shorcuts () are detected.",
+        "Time": "0 Counts",
+        "Duration": "",
+        "Mark": 0.0,
+        "Link": "",
+        "RId": 9
+    }
+]
